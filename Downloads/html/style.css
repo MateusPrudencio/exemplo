@@ -1,0 +1,23 @@
+@charset "windows-1251";
+a{text-decoration:none; font-family: Tahoma; font-size: 10px; color: #000000;}
+a:hover{text-decoration:underline; font-family: Tahoma; font-size: 10px; color: #000000;}
+body{margin: 0px; padding: 0px; font-family: Tahoma; font-size: 10px; color: #000000; background: #ffffff}
+div,td{font-family: Tahoma; font-size: 11px; color: #626262;}
+form{margin: 0px}
+
+.t11o{font-family: Tahoma; font-size: 12px; color: #FF7500;}
+a.t11o{font-family: Tahoma; font-size: 12px; color: #FF7500;}
+a.t11o:hover{font-family: Tahoma; font-size: 12px; color: #FF7500;}
+
+
+.t10w{font-family: Tahoma; font-size: 10px; color: #ffffff; font-weight: 600}
+a.t10w{font-family: Tahoma; font-size: 10px; color: #ffffff; font-weight: 600}
+a.t10w:hover{font-family: Tahoma; font-size: 10px; color: #ffffff; font-weight: 600}
+
+.t12o{font-family: Tahoma; font-size: 12px; color: #FF7500; font-weight: 600}
+
+.t11w{font-family:Tahoma; font-size: 11px; color: #ffffff; font-weight: 600}
+
+.tbot{font-family: Tahoma; font-size: 11px; color: #626262;}
+a.{font-family: Tahoma; font-size: 11px; color: #626262;}
+a.tbot:hover{font-family: Tahoma; font-size: 11px; color: #626262;}
